@@ -1,0 +1,92 @@
+:root {
+  --white: hsl(0, 0%, 100%);
+  --light-gray: hsl(212, 45%, 89%);
+  --slate-blue: hsl(220, 15%, 55%);
+  --dark-blue: hsl(218, 44%, 22%);
+}
+
+*, 
+::before,
+::after {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Outfit', sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 1.6;
+  letter-spacing: 0;
+  color: var(--dark-blue);
+  background: var(--light-gray);
+  margin: 0;
+  padding: 0;
+}
+
+img {
+  width: 100%;
+  max-width: 100%;
+  vertical-align: middle;
+  border-style: none;
+}
+
+p, h2 {
+  margin: 0;
+}
+
+.container {
+  width: 100%;
+  padding: 0 15px;
+  margin: 0 auto;
+}
+
+.qrc-card {
+  background-color: var(--white);
+  border-radius: 20px;
+  width: 24%;
+  margin: 50px auto 20px auto;
+  box-shadow: 
+    0 1.5px 2.4px rgba(0, 0, 0, 0.04),
+    0 5px 3.5px rgba(0, 0, 0, 0.032),
+    0 9.5px 5.5px rgba(0, 0, 0, 0.025),
+    0 13.2px 9.5px rgba(0, 0, 0, 0.018),
+    0 15.6px 16.3px rgba(0, 0, 0, 0.013),
+    0 17px 26px rgba(0, 0, 0, 0.007);
+}
+
+.qrcode {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 15px;
+
+}
+
+.qrc-img {
+  width: 290px;
+  border-radius: 10px;
+  margin: 25px 20px 10px;
+}
+
+.qrc-h2 {
+  font-weight: 700;
+  font-size: 22px;
+  max-width: 75%;
+  text-align: center;
+}
+
+.qrc-p {
+  text-align: center;
+  max-width: 85%;
+  padding: 0px 20px 50px;
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+  margin-bottom: 100px;
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
