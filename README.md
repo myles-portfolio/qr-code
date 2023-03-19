@@ -24,8 +24,8 @@ This is my first submission for Frontend Mentor. I really enjoy the process and 
 
 ### Links
 
-- Solution URL: [](https://www.frontendmentor.io/solutions/qr-code-component-using-html-and-css-f-ywIRutPu)
-- Live Site URL: [](https://qrcode-challenge-1.netlify.app/)
+- Solution URL: [](https://www.frontendmentor.io/solutions/qr-code-component-using-html-and-css-f-ywIRutPu) 
+- Live Site URL: [](https://qrcode-challenge-1.netlify.app/) 
 
 ## My process
 
