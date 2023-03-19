@@ -20,7 +20,7 @@ This is my first submission for Frontend Mentor. I really enjoy the process and 
 
 ### Screenshot
 
-![](../qr-code/images/screenshot-qr-code.png)
+![QR Component Screenshot](../qr-code/images/screenshot-qr-code.png)
 
 ### Links
 
