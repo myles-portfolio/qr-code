@@ -20,7 +20,7 @@ This is my first submission for Frontend Mentor. I really enjoy the process and 
 
 ### Screenshot
 
-![QR Component Screenshot](../qr-code/images/screenshot-qr-code.png)
+![QR Component Screenshot](https://tinypic.host/i/screenshot-qr-code.3ONOx)
 
 ### Links
 
